@@ -1,0 +1,94 @@
+https://examples.javacodegeeks.com/core-java/mockito/mockito-mock-database-connection-example/
+https://www.ibm.com/developerworks/community/blogs/messaging/entry/jms_request_reply_sample?lang=en
+http://stackoverflow.com/questions/13104319/spring-3-with-thymeleaf-config-issue
+http://geosoft.no/development/javastyle.html
+http://www.andygibson.net/blog/article/how-to-do-10-common-tasks-in-jsf-2-0/
+
+http://ctetonline.com/new-norms-for-2-year-b-ed-course/
+
+http://www.javatips.net/blog/2014/09/eclipselink-jpa-with-h2-database
+
+http://docs.spring.io/spring-framework/docs/3.2.0.RELEASE/spring-framework-reference/html/new-in-3.2.html
+
+http://draptik.github.io/blog/2013/07/28/restful-crud-with-angularjs/
+
+http://howtodoinjava.com/2014/02/18/maven-bom-bill-of-materials-dependency/
+
+https://dzone.com/articles/exception-handling-spring-rest
+
+http://www.srccodes.com/p/article/25/spring-mobile-hello-world-example-that-includes-deviceresolver-sitepreference-urlpath-siteswitcher-and-litedevicedelegatingviewresolver
+
+https://blog.codecentric.de/en/2012/07/spring-dependency-injection-styles-why-i-love-java-based-configuration/
+
+https://dzone.com/articles/how-do-you-organise-maven-sub
+
+https://docs.spring.io/spring-security/site/docs/3.1.7.RELEASE/reference/core-services.html
+
+http://stackoverflow.com/questions/1279083/403-access-is-denied-after-authenticating
+
+http://www.fromdev.com/2010/12/interview-questions-hadoop-mapreduce.html
+
+http://eclipsesource.com/blogs/2016/04/15/api-key-authentication-in-a-rest-api-with-jax-rs/
+
+http://shout.setfive.com/2015/11/02/spring-boot-authentication-with-custom-http-header/
+
+http://javabeginnerstutorial.com/spring-security-tutorial/spring-security-introduction-tutorial/
+
+https://www.globant.com/contact
+
+https://dzone.com/articles/running-hadoop-mapreduce
+
+UAN PF
+100540546416  / Danapur@168
+
+MH/33604/009753
+
+Caves Open Timings:
+1) Ajanta Caves remain closed on every MONDAY.
+2) Ellora Caves remain closed on every TUESDAY.
+3) Both caves remain opened on all national holidays (subjected to exclusion of Monday for Ajanta and Tuesday for Ellora being their weekly holidays)
+4) MTDC Aurangabad Contact telephone# +91-240-2331198
+
+
+
+Delivery Address
+Jimmy Kumar
+ Empid :14536 Ext no:6855, Mobile :9623033659 C/o, Cybage Software Pvt. Ltd., Cybage Towers, Survey No 13A/ 1+2+3/1, Vadgaon Sheri, Pune 411014, Ph: 91-20-66041700 , Fax: 91-20-66041701
+Vadgaon sheri Pune
+Pune-411014
+Mobile: 9623033659
+
+
+jkumar77/Danapur168 Amex
+
+
+hadoop gradle dep 
+
+ compile "org.apache.hadoop:hadoop-client:${hadoopVersion}"
+   compile "com.linkedin.datafu:datafu:1.1.0-cdh5.1.0"
+   compile "org.apache.pig:pig:0.12.0-cdh5.1.0"
+   compile "org.apache.pig:piggybank:0.12.0-cdh5.2.0"
+
+   compile "org.codehaus.jackson:jackson-mapper-asl:1.9.12"
+   compile "org.codehaus.jackson:jackson-core-asl:1.9.12"
+   compile "org.javassist:javassist:3.18.1-GA"
+   compile "org.antlr:antlr:3.5"
+
+   testCompile "org.apache.pig:pigunit:0.12.0-cdh5.1.0"
+   testCompile "junit:junit:4.10"
+   testCompile group: "org.apache.mrunit", name:"mrunit", version:"1.0.0", classifier:"hadoop2"
+
+WebSecurityConfigurerAdapter   -- spring boot security
+
+
+an Apache server running a combination of mod_proxy, mod_rewrite and mod_redundancy can be another option.
+
+https://www.nabisoft.com/tutorials/java-ee/producing-and-consuming-json-or-xml-in-java-rest-services-with-jersey-and-moxy
+glassfish :
+
+https://glassfish.java.net/downloads/3.1.2.2-final.html
+
+
+https://docs.oracle.com/cd/E19798-01/821-1754/gijhs/
+
+https://docs.oracle.com/cd/E19798-01/821-1754/gjkps/index.html
